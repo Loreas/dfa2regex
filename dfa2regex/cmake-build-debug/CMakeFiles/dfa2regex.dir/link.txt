@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/dfa2regex.dir/main.cpp.o CMakeFiles/dfa2regex.dir/dfa.cpp.o  -o dfa2regex 

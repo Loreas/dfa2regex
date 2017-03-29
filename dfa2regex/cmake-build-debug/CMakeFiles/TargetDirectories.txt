@@ -1,0 +1,3 @@
+/home/uauser/Documents/dfa2regex/dfa2regex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/uauser/Documents/dfa2regex/dfa2regex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/uauser/Documents/dfa2regex/dfa2regex/cmake-build-debug/CMakeFiles/dfa2regex.dir
